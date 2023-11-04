@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="100">  
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="100">
+</p>
 
-<!--
-**M-Croghan/M-Croghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="100">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_168143.png" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="100">
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="100">
+</p>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  
+</p>
