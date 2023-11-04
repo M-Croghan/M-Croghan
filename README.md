@@ -1,29 +1,7 @@
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50">  
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,html,css,spring,flask,angular,postgres,gcp,aws,git,github,gradle,jenkins,idea,postman,&theme=dark&perline=6)](https://skillicons.dev)
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="50">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_168143.png" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50">
-</p>
+![m-croghan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-croghan&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
 
-<hr/>
-
-<p align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-croghan&layout=compact)
-  
-</p>
+![m-croghan's Stats](https://github-readme-stats.vercel.app/api?username=m-croghan&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true)
+![m-croghan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-croghan&theme=great-gatsby&hide_border=false)
+![Leetcode Stats](https://leetcard.jacoblin.cool/m-croghan?theme=dark)
